@@ -56,3 +56,7 @@ Examples: IBM Information Management System (IMS).
 - Healthcare: Storing patient records.
 - Education: Keeping track of students, courses, and grades.
 - Social Media: Managing user profiles, posts, and connections.
+
+## Author
+
+[Shiful Islam Shohag](https://www.linkedin.com/in/shiful-shohag/)
