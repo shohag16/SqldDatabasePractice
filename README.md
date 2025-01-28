@@ -27,7 +27,7 @@ A database is an organized collection of data that is stored and managed in a wa
 - Designed for unstructured or semi-structured data.
 - Often used in big data and real-time web applications.
 - Examples: MongoDB, CouchDB, Cassandra.
-- 
+
 **Object-oriented Databases:**
 
 - Data is stored as objects, similar to object-oriented programming.
