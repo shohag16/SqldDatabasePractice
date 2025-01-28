@@ -57,7 +57,7 @@ Examples: IBM Information Management System (IMS).
 - Education: Keeping track of students, courses, and grades.
 - Social Media: Managing user profiles, posts, and connections.
 
-![image](https://github.com/user-attachments/assets/0d1540e5-5306-4db8-b42b-e887b913f2d1)
+
 
 
 ## Author
