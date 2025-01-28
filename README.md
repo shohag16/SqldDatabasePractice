@@ -4,12 +4,18 @@
 A database is an organized collection of data that is stored and managed in a way that allows for efficient access, retrieval, and manipulation. It can be used to store various types of information, such as text, numbers, images, or any other data, which can be organized into tables, rows, and columns in a structured manner.
 
 # Key Characteristics of a Database:
-Organized Structure: Data is stored systematically, making it easy to retrieve and manage.
-Data Relationships: Databases can define relationships between data points (e.g., between customers and their orders).
-Efficient Data Access: Databases are designed for quick and efficient data access using specialized query languages.
-Data Integrity: Ensures that the data remains accurate and consistent.
-Multi-user Access: Many databases allow multiple users to access and modify data simultaneously.
+**Organized Structure:** Data is stored systematically, making it easy to retrieve and manage.
+
+**Data Relationships:** Databases can define relationships between data points (e.g., between customers and their orders).
+
+**Efficient Data Access:** Databases are designed for quick and efficient data access using specialized query languages.
+
+**Data Integrity:** Ensures that the data remains accurate and consistent.
+
+**Multi-user Access:** Many databases allow multiple users to access and modify data simultaneously.
+
 # Types of Databases:
+
 **Relational Databases (RDBMS):**
 
 - Data is stored in tables with rows and columns.
